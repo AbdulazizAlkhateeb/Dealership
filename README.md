@@ -18,8 +18,8 @@
 - `POST /auth/logout` -> Logout the current user  
 - `GET /auth/me` -> Retrieve logged-in user info  
 When registering a new user, you must provide a **role** to define their permissions in the system.
-- **Customer** 
-- **Admin**  
+1. Customer
+2. Admin 
 
 ### AdminUser
 - `GET /api/customers` => List all customers  

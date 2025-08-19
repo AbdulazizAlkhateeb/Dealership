@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "VehicleId": 2,
+    "CustomerId": 2,
+    "Status": "Rejected",
+    "RequestedAtUtc": "2025-08-18T15:12:27.5553333Z"
+  },
+  {
+    "Id": 2,
+    "VehicleId": 1,
+    "CustomerId": 2,
+    "Status": "Rejected",
+    "RequestedAtUtc": "2025-08-18T15:12:27.5553333Z"
+  },
+  {
+    "Id": 3,
+    "VehicleId": 3,
+    "CustomerId": 2,
+    "Status": "Rejected",
+    "RequestedAtUtc": "2025-08-18T15:12:27.5553333Z"
+  },
+  {
+    "Id": 4,
+    "VehicleId": 2,
+    "CustomerId": 2,
+    "Status": "Pending",
+    "RequestedAtUtc": "2025-08-18T21:48:40.1628549Z"
+  }
+]

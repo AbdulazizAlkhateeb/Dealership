@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.vscode/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.bak
+*.log
+
+# Build results
+bin/
+obj/
+out/
+
+# Others
+*.vsidx
+*.swp
+*.tmp

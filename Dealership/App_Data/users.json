@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "UserName": "Noura",
+    "PasswordHash": "$2a$11$fVRtjE5e72iyEbM8jnMD8uno3qy/cab2NU0Kr5bCkoqxDMgwUWmiK",
+    "Role": "Admin"
+  },
+  {
+    "Id": 2,
+    "UserName": "Abdulaziz",
+    "PasswordHash": "$2a$11$pYqm0G7JInu3g6Qdw1uw6eAiBZIva8GLBkRQZp8dNs4rGR46luZVi",
+    "Role": "Customer"
+  },
+  {
+    "Id": 3,
+    "UserName": "Ali",
+    "PasswordHash": "$2a$11$1T/ce.G2NVIzh4eZoUYfnOx.PDwdFYYptN3hYjhAHYVNMlZVS5qV2",
+    "Role": "Admin"
+  },
+  {
+    "Id": 4,
+    "UserName": "fahad",
+    "PasswordHash": "$2a$11$Vb9Cm0DgGkvG98igYjIN7uqZDo.KTAgcnCeT41jyoB.VK6z.MfaMC",
+    "Role": "Admin"
+  }
+]

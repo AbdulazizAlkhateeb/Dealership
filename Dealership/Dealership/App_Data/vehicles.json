@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "Make": "BMW",
+    "Model": "X5",
+    "Year": 2021,
+    "Price": 280000,
+    "InStock": true
+  },
+  {
+    "Id": 2,
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2020,
+    "Price": 20000,
+    "InStock": false
+  },
+  {
+    "Id": 3,
+    "Make": "hyndai",
+    "Model": "crata",
+    "Year": 2025,
+    "Price": 25000,
+    "InStock": true
+  },
+  {
+    "Id": 4,
+    "Make": "mazda",
+    "Model": "cx30",
+    "Year": 2004,
+    "Price": 1000,
+    "InStock": true
+  },
+  {
+    "Id": 5,
+    "Make": "Toyota",
+    "Model": "Camry",
+    "Year": 2024,
+    "Price": 120000,
+    "InStock": true
+  },
+  {
+    "Id": 6,
+    "Make": "Ford",
+    "Model": "Mustang",
+    "Year": 2022,
+    "Price": 180000,
+    "InStock": true
+  },
+  {
+    "Id": 7,
+    "Make": "Chevrolet",
+    "Model": "Tahoe",
+    "Year": 2021,
+    "Price": 200000,
+    "InStock": false
+  },
+  {
+    "Id": 8,
+    "Make": "Nissan",
+    "Model": "Altima",
+    "Year": 2019,
+    "Price": 75000,
+    "InStock": true
+  },
+  {
+    "Id": 9,
+    "Make": "Kia",
+    "Model": "Sportage",
+    "Year": 2023,
+    "Price": 95000,
+    "InStock": true
+  },
+  {
+    "Id": 10,
+    "Make": "Mercedes-Benz",
+    "Model": "C200",
+    "Year": 2022,
+    "Price": 220000,
+    "InStock": false
+  }
+]

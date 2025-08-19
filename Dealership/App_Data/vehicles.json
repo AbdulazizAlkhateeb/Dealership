@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Make": "mazda",
+    "Model": "test",
+    "Year": 2000,
+    "Price": 25200,
+    "InStock": false
+  },
+  {
+    "Id": 2,
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2020,
+    "Price": 20000,
+    "InStock": true
+  },
+  {
+    "Id": 3,
+    "Make": "hyndai",
+    "Model": "crata",
+    "Year": 2025,
+    "Price": 25000,
+    "InStock": true
+  },
+  {
+    "Id": 4,
+    "Make": "mazda",
+    "Model": "cx30",
+    "Year": 2004,
+    "Price": 1000,
+    "InStock": true
+  }
+]
